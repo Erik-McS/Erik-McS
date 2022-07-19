@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Erik-McS
 - 👀 I’m interested in many things, but coding is one of them
-- 🌱 I’m currently learning Software developmemt at college in the UK and plan to learn further at university (i am a mature student).
--    We are currently learning Java, C#, HTML/CSS and some Javascrit, but I am also learning Python on my spare time.
-- 💞️ I’m looking to collaborate on ... well, not sure i have the skills yet to participate on projects. but would be happy if any beginner-friendly project is out there.
+- 🌱 I’m currently learning Software development at college in the UK and plan to learn further at university (i am a mature student).
+-    We are currently learning Java, C#, HTML/CSS and some JavaScript, but I am also learning Python on my spare time.
+- 💞️ I’m looking to collaborate on ... well, not sure I have the skills yet to participate on projects. but would be happy if any beginner-friendly project is out there.
 - 📫 How to reach me ...
 
 <!---
